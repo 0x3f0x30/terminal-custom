@@ -1,1 +1,1 @@
-PS1="\[$IBlack\]┌—————[\[$BWhite\]\u@\H\[$IBlack\]]—————[\[$IBlue\]\w\[$IBlack\]] \n└\[$BRed\]$ \[$White\]"
+  PS1='┌──[\u@\h]─(\w)\n└──╼ \$ '
